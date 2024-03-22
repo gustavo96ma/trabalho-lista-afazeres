@@ -4,6 +4,8 @@ Vocês deverão desenvolver as funcionalidades de editar e excluir uma tarefa de
 
 https://github.com/gustavo96ma/trabalho-lista-afazeres/
 
+OBS: Rode o comando "flutter pub get" no diretório após baixar o projeto.
+
 O código fornecido apresenta uma estrutura básica para uma lista de afazeres (to-do list) em Flutter. No entanto, vocês devem adaptar a lógica de acordo com as necessidades adicionando ou removendo widgets, telas, botões, ícones e todo o necessário para atender às especificações do trabalho.
 
 Certifiquem-se de que o aplicativo resultante seja funcional, intuitivo, responsivo e seguro. Utilizem boas práticas de programação e design de interface para criar uma experiência de usuário agradável e eficiente.
